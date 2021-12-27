@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/front_end/static/css/main.3787aa28.chunk.css",
+    "main.js": "/front_end/static/js/main.f0858d7b.chunk.js",
+    "main.js.map": "/front_end/static/js/main.f0858d7b.chunk.js.map",
+    "runtime-main.js": "/front_end/static/js/runtime-main.694976b2.js",
+    "runtime-main.js.map": "/front_end/static/js/runtime-main.694976b2.js.map",
+    "static/js/2.033cd928.chunk.js": "/front_end/static/js/2.033cd928.chunk.js",
+    "static/js/2.033cd928.chunk.js.map": "/front_end/static/js/2.033cd928.chunk.js.map",
+    "static/js/3.b5b4684f.chunk.js": "/front_end/static/js/3.b5b4684f.chunk.js",
+    "static/js/3.b5b4684f.chunk.js.map": "/front_end/static/js/3.b5b4684f.chunk.js.map",
+    "index.html": "/front_end/index.html",
+    "static/css/main.3787aa28.chunk.css.map": "/front_end/static/css/main.3787aa28.chunk.css.map",
+    "static/js/2.033cd928.chunk.js.LICENSE.txt": "/front_end/static/js/2.033cd928.chunk.js.LICENSE.txt",
+    "static/media/bim.38b3a7ed.jpeg": "/front_end/static/media/bim.38b3a7ed.jpeg",
+    "static/media/loading.edf8ee4d.gif": "/front_end/static/media/loading.edf8ee4d.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.694976b2.js",
+    "static/js/2.033cd928.chunk.js",
+    "static/css/main.3787aa28.chunk.css",
+    "static/js/main.f0858d7b.chunk.js"
+  ]
+}
